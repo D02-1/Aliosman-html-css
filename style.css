@@ -1,0 +1,46 @@
+h1 {
+    background-color: #1c8de1;
+    color: white;
+}
+
+p {
+    background-color: blue;
+    color: cornsilk;
+    font-size: xx-large;
+}
+
+h3 {
+    background-color: #1c8de1;
+    color: cornsilk;
+    font-size: xx-large;
+}
+
+ul {
+    color: darkgreen;
+}
+
+#box-1 {
+    color: white;
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    background-color: #1c8de1;
+}
+
+#box-2 {
+    color: white;
+    width: 250px;
+    height: 250pxpx;
+    margin: 20px;
+    background-color: #1c8de1;
+}
+
+.box {
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    color: white;
+    background-color: #1c8de1;
+    display: inline-block;
+    font-size: 30px;
+}
